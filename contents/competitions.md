@@ -1,4 +1,4 @@
-I wanted to keep a roadmap of all of the competitions I've done!
+Road Map of all the competitions I've done
 
 ### 2024
 - Cyber 9/12 
@@ -12,5 +12,7 @@ I wanted to keep a roadmap of all of the competitions I've done!
 - 5th Place CCDC Regionals
 - Pico CTF
 - 2nd Place Wicked6 A/D
-- CTF@CIT
-- DoD Sentinal Challenge (upcoming!)
+- CTF@CIT 2025
+- DoD Sentinal Challenge
+- UIUC CTF 2025 
+- CPTC (upcoming)
