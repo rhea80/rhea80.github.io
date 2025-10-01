@@ -1,5 +1,3 @@
-Road Map of all the competitions I've done
-
 ### 2024
 - Cyber 9/12 
 - Hivestorm
