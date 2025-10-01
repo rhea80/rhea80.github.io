@@ -8,11 +8,12 @@ Road Map of all the competitions I've done
 
 ### 2025
 - CCDC Qualifiers
-- ISTS 
-- 5th Place CCDC Regionals
+- ISTS 2025
+- CCDC Regionals
 - Pico CTF
 - 2nd Place Wicked6 A/D
 - CTF@CIT 2025
 - DoD Sentinal Challenge
 - UIUC CTF 2025 
+- Sunshine CTF 2025
 - CPTC (upcoming)
